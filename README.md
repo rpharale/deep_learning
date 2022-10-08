@@ -14,9 +14,12 @@ Projects related to traning neural nets
     
     - Part 2: A character level laguage model which can take in more than 2 character as an input, embedds them in n-dimensional space and predicts the next character [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/makemore/part2/makemore_part2_mlp.ipynb).
         - References: Bengio et al. 2003 MLP language model paper (pdf): [link](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-        - Video tutorials:
+        - Video tutorials: [link](https://www.youtube.com/watch?v=TCH_1BHY58I)
         - Notebook used in the video: [link](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part2_mlp.ipynb)
         - mkaemore github link: [link](https://github.com/karpathy/makemore) 
     
+   - Part 3: Same character level language model which can take in 2 or more chars as an input, embeds them in n-dimensional space and predicts the next character using batch norm in a 6 layered network. It also introduces a certain diagnostic tools that can be useful for debugging [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/makemore/part3/makemore%20Part3%20Batch%20Norm.ipynb).
+       - Video tutorial: [link](https://www.youtube.com/watch?v=P6sfmUTpUmc)
+       - Notebook used in the video: [link](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part3_bn.ipynb)
    
 
