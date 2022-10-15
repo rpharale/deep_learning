@@ -22,4 +22,7 @@ Projects related to traning neural nets
        - Video tutorial: [link](https://www.youtube.com/watch?v=P6sfmUTpUmc)
        - Notebook used in the video: [link](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part3_bn.ipynb)
    
-
+  - Part 4: Same as Part 3 but replace the loss.backward() call from Pytorch and implemnt your own back propogation code. Fun and involved exercise with a lot of tensor differentiation. [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/makemore/part4/makemore_part4_manual_backprop.ipynb)
+      - Video tutorial: [link](https://www.youtube.com/watch?v=q8SA3rM6ckI)
+      - Notebook used in the video: [link](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part4_backprop.ipynb)
+      
