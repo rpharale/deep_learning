@@ -34,5 +34,5 @@ Projects related to traning neural nets
     - Perceptron:
         -> Perceptron code to classfy the 2-dimensional data with 2 classes. \
            Numpy based code: [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/algorithms/perceptron/perceptron_numpy.ipynb) \
-           Pytorch based code: [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/algorithms/perceptron/perceptron_pytorch.ipynb) \
+           Pytorch based code: [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/algorithms/perceptron/perceptron_pytorch.ipynb)
         
