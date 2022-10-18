@@ -26,3 +26,13 @@ Projects related to traning neural nets
        - Video tutorial: [link](https://www.youtube.com/watch?v=q8SA3rM6ckI)
        - Notebook used in the video: [link](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part4_backprop.ipynb)
       
+3) NLP:
+    - Character level language models: 
+        -> Names classifier with simple RNN model built from scratch in Pytorch: [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/nlp/char_level_models/names_classifier/names_classifier.ipynb)
+   
+4) Alogrithms:
+    - Perceptron:
+        -> Perceptron code to classfy the 2-dimensional data with 2 classes.
+           Numpy based code: [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/algorithms/perceptron/perceptron_numpy.ipynb)
+           Pytorch based code: [link](https://github.com/rpharale/deep_learning/blob/main/notebooks/algorithms/perceptron/perceptron_pytorch.ipynb)
+        
