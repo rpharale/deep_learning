@@ -25,6 +25,11 @@ Projects related to traning neural nets
    - Part 4: Same as Part 3 but replace the loss.backward() call from Pytorch and implemnt your own back propogation code. Fun and involved exercise with a lot of tensor differentiation. [link](https://github.com/rpharale/deep_learning/blob/main/makemore/part4/makemore_part4_manual_backprop.ipynb)
        - Video tutorial: [link](https://www.youtube.com/watch?v=q8SA3rM6ckI)
        - Notebook used in the video: [link](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part4_backprop.ipynb)
+
+   - Part 5: Same as Part 3 but implement wavenet arch from Deepmind. [link](https://github.com/rpharale/deep_learning/blob/main/makemore/part5/makemore%20Part5%20wavenet.ipynb)
+       - Video tutorial: [link](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
+       - Notebook used in the video: [link](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures/makemore/makemore_part5_cnn1.ipynb)
+       - Wavenet paper: [link](https://arxiv.org/abs/1609.03499) 
       
 3) NLP:
     - Character level language models: 
